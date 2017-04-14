@@ -1,0 +1,40 @@
+{
+  "national": [{
+    "id": 1,
+    "title": "Star Wars: The Last Jedi trailer is here at last",
+    "description": "The moment you’ve been waiting for since you saw The Force Awakens way back in 2015 is finally here: we now have our first teaser trailer for Star Wars: The Last Jedi. And what a teaser it is. Much like the early teasers for The First Awakens, it hardly reveals anything at all about the plot, yet still manages to turn up the hype to 11. I wish more trailers were as restrained as these."
+  }, {
+    "id": 2,
+    "title": "Instagram snaps Snapchat’s hold on millennials",
+    "description": "Stories are dead. Long live Stories. Instagram announced earlier this week that its Stories feature has over 200 million daily users. As my colleague Napier pointed out, that’s at least 40 million more than Snapchat’s last reported number. I think we can safely say Instagram and Facebook have Snapchat beaten. 158 million active users is nothing to sneeze at, but it’s worth noting that Snapchat’s meteoric growth slowed considerably when Instagram Stories rolled out. For an app that’s never turned its parent company a profit, any dip in user activity is probably not a good thing. "
+  }, {
+    "id": 3,
+    "title": "Stream everything you want, whenever you want - just $39",
+    "description": "A lifetime of Getflix access usually runs about $1,200, so grab it now at $39 and say goodbye to all those pesky streaming restrictions forever."
+  }, {
+    "id": 4,
+    "title": "Nintendo pulls the Famicom Mini too (but there's hope)",
+    "description": "Not satisfied with breaking the hearts of Western fans by discontinuing the NES Classic, Nintendo is doing the same with the Japanese-exclusive Famicom Mini. A tiny retread of Nintendo’s beloved Famicom console, the Famicom Mini had 30 games and two controllers with absurdly short cables. The console was extremely popular; according to Nintendo Life, the Famicom Mini sold over  262,000 consoles within a week. Even the NES Classic didn’t do that well, selling 196,000 copies within three weeks."
+  }, {
+    "id": 5,
+    "title": "A tiny solar-powered device creates water from thin air",
+    "description": "Scientists at the University of Berkeley and MIT have created a device that can produce drinking water out of thin air in an incredibly energy efficient way"
+  }, {
+    "id": 6,
+    "title": "YouTube has a secret 'Dark Mode' – this is how you activate it",
+    "description": "You might have never seen it but it turns out YouTube has a secret dark mode – and we can tell you how how to activate it."
+  }],
+  "international": [{
+    "id": 7,
+    "title": "‘Mother of All Bombs’ was developed at Florida base",
+    "description": "A Florida man who helped build the 21,600-pound bomb dropped on Afghanistan on Thursday said so many years had passed since the weapon was developed that he thought it might have been taken out of the military 's arsenal."
+  }, {
+    "id": 8,
+    "title": "Trump’s got a new favorite Steve",
+    "description": "President Donald Trump once affectionately called them 'my two Steves,'a reference not only to their ideological kinship but to their central role in his administration.But while Steve Bannon is on the ropes in Trump’ s fractious White House,Stephen Miller has managed to endear himself to the man emerging as the president’ s most indispensable adviser: son - in -law Jared Kushner.As the relationship between Kushner and Bannon has deteriorated, Miller has made sure his  colleagues know he’ s not on Bannon’ s team.In interviews, sevenWhite House officials described the emerging dynamics."
+  }, {
+    "id": 9,
+    "title": "Bella Thorne wants to date Kristen",
+    "description": "dd Bella Thorne to the list of Hollywood names interested in filling Kristen Stewart 's dance card.In an interview with Harper' s Bazaar, the 19 - year - old actress got candid about her sexuality, after casually coming out as bisexual last year."
+  }]
+}
