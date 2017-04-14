@@ -13,7 +13,7 @@ This is a news app which displays both National and International news. The user
     npm install
     ```
 
-2.    Start the server.
+2.  Start the server.
 
     ```
     npm start
